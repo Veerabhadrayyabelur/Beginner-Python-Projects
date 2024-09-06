@@ -12,7 +12,3 @@ elif unit == "L":
 
 else:
     print("{unit} is invalid")
-
-
- 
-    
